@@ -1,1 +1,3 @@
 A repo to track other repos generally relating to the solarized theme and my current working environment
+
+    ln -s dircolors-solarized/dircolors.256dark ~/.dir_colors
